@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm M. M. Sadikul Islam (Jesan) 👋
 
-<!--
-**SJesan/SJesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-semester CSE student at International Islamic University Chittagong (IIUC), moving from web development into AI/ML.
 
-Here are some ideas to get you started:
+## What I'm doing now
+- Learning Python and machine learning
+- Building web projects with HTML, CSS, and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+HTML · CSS · JavaScript · Python
+
+## Featured project
+- [SecurePassGen](https://github.com/SJesan/SecurePassGen): password generator with custom length and copy-to-clipboard
+<!-- Add your best ML project here once it's public -->
+
+## Find me
+[LinkedIn](https://www.linkedin.com/in/sadikul-islam-jesan)
