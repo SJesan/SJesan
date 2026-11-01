@@ -36,15 +36,9 @@ Final-semester CSE student at **International Islamic University Chittagong (IIU
 - [ ] First deep learning project
 - [ ] Portfolio website
 
-## 📊 Top Languages
+## 📊 Languages
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJesan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<!-- Add the stats card below once your activity grows:
-<img src="https://github-readme-stats.vercel.app/api?username=SJesan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
--->
+Mostly **HTML, CSS, and JavaScript** so far, with **Python** in progress for AI/ML.
 
 ## 📫 Connect
 
